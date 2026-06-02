@@ -21,5 +21,7 @@ Please open .ipynb file and run all the cells, following the order of the file. 
 
 ## Performance Snaphot
 
-Overall Competition Score:
+<img width="1173" height="44" alt="image" src="https://github.com/user-attachments/assets/94e95332-31f0-4d6c-8256-77e018b56c31" />
+
+Overall Competition Score: 31.0
 
